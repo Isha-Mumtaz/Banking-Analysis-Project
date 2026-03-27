@@ -97,3 +97,8 @@ Power BI dashboards provide actionable insights into client behavior, loan repay
 
 ## Prepared By
 *Isha Mumtaz*
+
+
+### Note / Acknowledgment
+
+This project was inspired by publicly available tutorials and dashboards to understand banking analytics workflows. All analysis, cleaning, and visualizations were completed independently.
